@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.mod.Mixins.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cryness_double_slabs.refmap.json",
+  "mixins": [
+    "MixinBlockItem",
+    "MixinSlabBlock"
+  ],
+  "minVersion": "0.8"
+}
